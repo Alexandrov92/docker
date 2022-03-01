@@ -1,0 +1,10 @@
+
+---
+version: "3"
+
+services:
+ 063641e91b42:
+        ports:
+          - "7777:80"
+        image: my_site:v1
+
